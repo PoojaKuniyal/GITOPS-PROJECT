@@ -1,0 +1,3 @@
+venv/
+logs/
+ARGOCD_SMART.egg-info/
